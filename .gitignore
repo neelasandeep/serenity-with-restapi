@@ -1,0 +1,9 @@
+target/
+site/
+../.idea
+.idea/
+together.iml
+logging.log
+.classpath
+.settings
+.project
